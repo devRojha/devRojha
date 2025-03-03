@@ -18,8 +18,6 @@
   <img  src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=64748B&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Devraj+Kumar;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
 </div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=FFFFFF&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Devraj+Kumar;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
-
 Full Stack Developer and Competitive Programer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devraj-kumar-5191ba250/) 
