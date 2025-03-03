@@ -15,10 +15,12 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=F5F5F5&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Yashvardhan+Singh;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
+  <img  src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=64748B&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Devraj+Kumar;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
 </div>
 
-Full Stack Developer and Compititive Programer.
+<img src="https://readme-typing-svg.herokuapp.com?font=Sedan+SC&size=40&weight=600&duration=5000&pause=700&color=FFFFFF&background=15151500&center=true&vCenter=true&random=false&width=800&lines=Hi+there%2C+I'm+Devraj+Kumar;Technology+and+Coding+Enthusiast" alt="Typing SVG"/>
+
+Full Stack Developer and Competitive Programer.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devraj-kumar-5191ba250/) 
 [![Profile Views](https://komarev.com/ghpvc/?username=devRojha&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/devRojha)
