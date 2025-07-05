@@ -20,7 +20,7 @@ I'm **Devraj Kumar**, a **Full Stack Developer** and **Competitive Programmer** 
 - ✅ Solved **1700+ DSA/CP problems** across various coding platforms  
 - 🏅 **Specialist** on Codeforces  
 - 🛡️ **Knight** on LeetCode  
-- 🔗 **Profiles**:  [Codeforces](https://codeforces.com/profile/devraj_4) |  [LeetCode](https://leetcode.com/u/devraj_04/) |  [GeeksforGeeks](https://www.geeksforgeeks.org/user/devraj_04/) |  [CodeChef](https://www.codechef.com/users/devraj_04)  
+- 🔗 **Profiles**:  [Codeforces](https://codeforces.com/profile/devraj_4) |  [LeetCode](https://leetcode.com/u/devraj_04/) |  [GeeksforGeeks](https://www.geeksforgeeks.org/user/devraj_04/) |  [CodeChef](https://www.codechef.com/users/dev_r04)  
 - 💬 Actively participate in contests and mentor juniors in DSA and problem-solving  
 
 ---
