@@ -11,7 +11,7 @@
 ## 👋 About Me
 
 
-I'm **Devraj Kumar**, a **Full Stack Developer** and **Competitive Programmer** currently pursuing **B.Tech in Computer Science at NIT Patna (2022–26)**. I build scalable web applications, solve complex algorithmic problems, and love working with modern web technologies.
+I'm **Devraj Kumar**, a **Full Stack Developer** and **Competitive Programmer** currently pursuing **B.Tech in Electrical Engineering at NIT Patna (2022–26)**. I build scalable web applications, solve complex algorithmic problems, and love working with modern web technologies.
 
 ---
 
