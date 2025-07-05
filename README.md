@@ -67,6 +67,7 @@ _Tech Stack:_ `Next.js`, `Express.js`, `Hono`, `cloudflare` `PostgreSQL`, `Prism
 ## 📈 GitHub Stats
 
 ![Devraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devRojha&show_icons=true&theme=tokyonight)
+![Contributions](https://streak-stats.demolab.com?user=devRojha&theme=tokyonight&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devRojha&layout=compact&theme=tokyonight)
 
 ---
