@@ -76,7 +76,7 @@ _Tech Stack:_ `Next.js`, `Express.js`, `Hono`, `cloudflare` `PostgreSQL`, `Prism
 
 - 🌐 Website: [www.devrajkumar.me](https://www.devrajkumar.me)
 - 💼 LinkedIn: [Devraj Kumar](https://www.linkedin.com/in/devraj-kumar-5191ba250/)
-- 📧 Email: devrajkumar04@gmail.com
+- 📧 Email: devrajk0405@gmail.com
 
 ---
 
