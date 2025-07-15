@@ -29,7 +29,7 @@ I'm **Devraj Kumar**, a **Full Stack Developer** and **Competitive Programmer** 
 
 - 🏛️ [**Department Section of Official Website of NIT Patna**](https://www.nitp.ac.in/)
 - 🌍 [**International Conference Website – Civil Eng. Dep. NIT Patna**](https://iscesti2025.vercel.app)
-- 🚀 [**LuminAerospace Website (Incubated from IIT Kharagpur)**](https://www.luminaerospace.tech)
+- 🚀 [**LuminAerospace Website (Incubated from IIT Roorkee)**](https://www.luminaerospace.tech)
 
 
 ## 💻 Tech Stack
